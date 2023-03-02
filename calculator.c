@@ -3,5 +3,5 @@
 int main()
 {
     int n;
-    printf("Write the number for ")
+    printf("For Addition Press One ")
 }
